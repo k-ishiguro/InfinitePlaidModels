@@ -28,6 +28,5 @@ InfinitePlaid_Simplified: constant bias observation with infinite cardinality of
 utils: some matlab functions
 data: synthetic data
 
-
-23 December, 2015
+January 05, 2016
 Katsuhiko Ishiguro <k.ishiguro.jp@ieee.org>
